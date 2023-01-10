@@ -1,0 +1,13 @@
+#Santa Fe - Parana
+from geopy.distance import distance
+SantaFe = (-31.64881, -60.70868)
+Parana = (-31.73271, -60.52897)
+distancia = distance(SantaFe,Parana).km
+print (distancia)
+
+#Parana - Buenos Aires
+from geopy.distance import distance
+Parana = (-31.73271, -60.52897)
+BuenosAires = (-34.61315, -58.37723)
+distancia = distance(Parana,BuenosAires).km
+print (distancia)
