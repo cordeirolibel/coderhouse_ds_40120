@@ -6,12 +6,12 @@ Notebooks e materias construídos em aulas.
 
 ### Aulas:
 1. A Necessidade de Informação na Indústria 4.0
-2. [Introdução à Programação com Python I](https://github.com/cordeirolibel/coderhouse_ds_40120/blob/main/Aula02.ipynb)
-3. [Introdução à Programação com Python II](https://github.com/cordeirolibel/coderhouse_ds_40120/blob/main/Aula03.ipynb)
-4. [Programação com arrays: introdução ao NumPy](https://github.com/cordeirolibel/coderhouse_ds_40120/blob/main/Aula04.ipynb)
-5. [Introdução à Manipulação de Dados com Panda (Parte I)](https://github.com/cordeirolibel/coderhouse_ds_40120/blob/main/Aula05.ipynb)
-6. [Introdução à Manipulação de Dados com Panda (Parte II)](https://github.com/cordeirolibel/coderhouse_ds_40120/blob/main/Aula06.ipynb)
-7. [Visualizações em Python (Parte I)](https://github.com/cordeirolibel/coderhouse_ds_40120/blob/main/Aula07.ipynb)
+2. Introdução à Programação com Python I
+3. Introdução à Programação com Python II
+4. Programação com arrays: introdução ao NumPy
+5. Introdução à Manipulação de Dados com Panda (Parte I)
+6. Introdução à Manipulação de Dados com Panda (Parte II)
+7. Visualizações em Python (Parte I)
 8. Visualizações em Python (Parte II)
 9. Estatística Descritiva
 10. Ferramentas de visualização
